@@ -68,14 +68,6 @@ body h2 span {
   .navbar__burger a {
     display: none;
   }
-  .navbar__burger a:last-child {
-    display: block;
-  }
-  .navbar__burger a img {
-    display: block;
-    width: 40px;
-    height: 40px;
-  }
 }
 .header {
   background: url(/img/back.png) 0 0/cover no-repeat;
